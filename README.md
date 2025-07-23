@@ -23,7 +23,7 @@ This SQL project explored a product inventory database from Zepto, a quick comme
 - Data cleaning
 - Key business perceptions can be derived by analysts.
 
-- ## 🗃️ Database Schema
+## 🗃️ Database Schema
 
 Table: `zepto`
 
