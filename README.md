@@ -1,5 +1,6 @@
 # 🛒 Zepto Product Data Analysis (PostgreSQL)
 
+
 This project involves data exploration, plus cleaning, also analysis because we use PostgreSQL on the Zepto product dataset. It features key SQL abilities. Those skills do include querying and filtering and aggregation and basic data transformations.
 
 ---
